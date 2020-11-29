@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(167, 224, 249);
+}
+
+#stock-panel{
+    background-color: rgb(252, 190, 96);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 33%;
+}
+
+header{
+    position: relative;
+    
+}
+
+header div{
+position: absolute;
+  top: 25px;
+  left: 25px;
+}
